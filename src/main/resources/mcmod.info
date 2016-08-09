@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dansuf_imgurmod",
+  "name": "Imgur Mod",
+  "description": "Adds a hotkey to make a screenshot and automatically upload it to imgur.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Dansuf/imgur-mod",
+  "updateUrl": "",
+  "authorList": ["Dan Sufho"],
+  "credits": "google and people on stackoverflow : D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
